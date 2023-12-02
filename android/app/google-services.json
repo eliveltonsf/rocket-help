@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "639666400552",
+    "project_id": "rockethelp-bfa01",
+    "storage_bucket": "rockethelp-bfa01.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:639666400552:android:645da9544ddb76815cb41d",
+        "android_client_info": {
+          "package_name": "com.eliveltonsf.rockethelp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAi_9BVRVfuW-khn5BRDIIRxC05-QhklxY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

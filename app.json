@@ -10,6 +10,17 @@
       "eas": {
         "projectId": "423736b5-e4d1-46f7-821e-ccf9ec6ed11c"
       }
-    }
+    },
+    "android": {
+      "package": "com.eliveltonsf.rockethelp",
+      "googleServicesFile": "./google-services.json"
+    },
+    "ios": {
+      "bundleIdentifier": "com.eliveltonsf.rockethelp",
+      "googleServicesFile": "./GoogleService-Info.plist"
+    },
+    "plugins": [
+      "@react-native-firebase/app"
+    ]
   }
 }

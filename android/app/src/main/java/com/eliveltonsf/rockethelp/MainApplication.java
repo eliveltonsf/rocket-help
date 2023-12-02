@@ -1,4 +1,4 @@
-package com.basichelp;
+package com.eliveltonsf.rockethelp;
 
 import android.app.Application;
 import android.content.res.Configuration;
