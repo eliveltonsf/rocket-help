@@ -1,16 +1,11 @@
 {
   "expo": {
-    "name": "basic-help",
-    "slug": "basic-help",
+    "name": "rocket-help",
+    "slug": "rocket-help",
     "version": "1.0.0",
     "assetBundlePatterns": [
       "**/*"
     ],
-    "extra": {
-      "eas": {
-        "projectId": "423736b5-e4d1-46f7-821e-ccf9ec6ed11c"
-      }
-    },
     "android": {
       "package": "com.eliveltonsf.rockethelp",
       "googleServicesFile": "./google-services.json"
@@ -20,7 +15,18 @@
       "googleServicesFile": "./GoogleService-Info.plist"
     },
     "plugins": [
-      "@react-native-firebase/app"
+      "@react-native-firebase/app",
+      [
+        "expo-build-properties",
+        {
+          "ios": {
+            "useFrameworks": "static"
+          },
+          "android": {
+            "useFrameworks": "static"
+          }
+        }
+      ]
     ]
   }
 }
