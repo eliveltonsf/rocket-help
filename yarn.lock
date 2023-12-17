@@ -2298,6 +2298,11 @@
   dependencies:
     plist "^3.1.0"
 
+"@react-native-firebase/firestore@^18.7.2":
+  version "18.7.2"
+  resolved "https://registry.yarnpkg.com/@react-native-firebase/firestore/-/firestore-18.7.2.tgz#1fec11f8daa36757244938f307e2a98285802a96"
+  integrity sha512-AX/fqvTQ6zFTnwvQG8JAl44XD0lJISpedeX0EWEFUa47rKPNEFqkDsGvv1AQkAkT+twfIhaj+ORVtZMB3snIFg==
+
 "@react-native-firebase/storage@^18.7.1":
   version "18.7.1"
   resolved "https://registry.npmjs.org/@react-native-firebase/storage/-/storage-18.7.1.tgz"
