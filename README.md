@@ -30,10 +30,12 @@ Application to control tasks with the entire flow of manipulation such as creati
 - [Description](#description)
 - [Status of project](#status)
 - [Project's goal](#objective)
+- [Download APK](#download)
 - [Functionalities](#functionalities)
 - [Prerequisites](#prerequisites)
-- [Server Demo](#serverdemo)
-- [Client Demo](#clientdemo)
+- [App Demo](#appdemo)
+- [APP Screens](#appscreens)
+- [Firebase Screens](#firebase)
 - [Technologies](#techonologies)
 
 <br />
@@ -62,7 +64,7 @@ This project is part of one of [Rocketseat](https://www.rocketseat.com.br/) inno
 
 <br/>
 
-<h2 id="domain" name="domain">
+<h2 id="download" name="download">
 🌐 App download - APK
 </h2>
 
@@ -111,7 +113,7 @@ After executing the command, you will get the following return in your terminal 
 
 
 
-<h2 id="serverdemo" name="serverdemo">
+<h2 id="appdemo" name="appdemo">
 🎥 App Demo 
 </h2>
 <br/>
@@ -121,7 +123,7 @@ After executing the command, you will get the following return in your terminal 
 <br />
 <br />
 
-<h2 id="clientdemo" name="clientdemo">
+<h2 id="appscreens" name="appscreens">
 🎥 App Screens 
 </h2>
 <br />
@@ -148,8 +150,8 @@ After executing the command, you will get the following return in your terminal 
 <br />
 <br />
 
-<h2 id="clientdemo" name="clientdemo">
-🎥 Firebase Screen 
+<h2 id="firebase" name="firebase">
+🎥 Firebase Screens 
 </h2>
 <br/>
 <img src="https://github.com/eliveltonsf/rocket-help/blob/main/src/assets/firebase%20users.png?raw=true"/>
